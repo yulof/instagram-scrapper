@@ -1,0 +1,43 @@
+body {
+  text-align: center;
+  background-color: #f8f9fa;
+  color: #444;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+nav {
+  height: 65px;
+  width: 100%;
+  background-color: white;
+  margin-bottom: 20px;
+}
+
+.align-center {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
+
+#biography {
+  white-space: pre-wrap;
+  text-align: left;
+}
+
+a {
+  color: #1976d2;
+  font-size: 16px;
+}
+
+a:link, a:visited, a:active {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #00d4FF;
+}

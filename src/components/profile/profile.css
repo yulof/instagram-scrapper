@@ -1,0 +1,17 @@
+.profile {
+    padding: 1rem 1rem;
+    margin-bottom: 2rem;
+    width: 100%;
+}
+
+.pic {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: auto;
+}
+
+.name {
+    margin-top: 1rem;
+}
