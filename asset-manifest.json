@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/github.io/instagram-scrapper/static/css/main.e9e5aa9a.chunk.css",
+    "main.js": "/github.io/instagram-scrapper/static/js/main.d566c6f8.chunk.js",
+    "main.js.map": "/github.io/instagram-scrapper/static/js/main.d566c6f8.chunk.js.map",
+    "runtime-main.js": "/github.io/instagram-scrapper/static/js/runtime-main.34bf1004.js",
+    "runtime-main.js.map": "/github.io/instagram-scrapper/static/js/runtime-main.34bf1004.js.map",
+    "static/css/2.12db4010.chunk.css": "/github.io/instagram-scrapper/static/css/2.12db4010.chunk.css",
+    "static/js/2.1bf2b5aa.chunk.js": "/github.io/instagram-scrapper/static/js/2.1bf2b5aa.chunk.js",
+    "static/js/2.1bf2b5aa.chunk.js.map": "/github.io/instagram-scrapper/static/js/2.1bf2b5aa.chunk.js.map",
+    "index.html": "/github.io/instagram-scrapper/index.html",
+    "precache-manifest.0f34db5f96124cb9e43a68d6d80c48e7.js": "/github.io/instagram-scrapper/precache-manifest.0f34db5f96124cb9e43a68d6d80c48e7.js",
+    "service-worker.js": "/github.io/instagram-scrapper/service-worker.js",
+    "static/css/2.12db4010.chunk.css.map": "/github.io/instagram-scrapper/static/css/2.12db4010.chunk.css.map",
+    "static/css/main.e9e5aa9a.chunk.css.map": "/github.io/instagram-scrapper/static/css/main.e9e5aa9a.chunk.css.map",
+    "static/js/2.1bf2b5aa.chunk.js.LICENSE.txt": "/github.io/instagram-scrapper/static/js/2.1bf2b5aa.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/github.io/instagram-scrapper/static/media/HelveticaNowText-Regular.c9442de9.woff",
+    "static/media/mdb.css": "/github.io/instagram-scrapper/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/github.io/instagram-scrapper/static/media/fa-solid-900.ee09ad75.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34bf1004.js",
+    "static/css/2.12db4010.chunk.css",
+    "static/js/2.1bf2b5aa.chunk.js",
+    "static/css/main.e9e5aa9a.chunk.css",
+    "static/js/main.d566c6f8.chunk.js"
+  ]
+}
